@@ -11,8 +11,8 @@
 
 | 2nd City | Distance to Leader |
 |----------|-------------------|
-| Jena → Erfurt | 51.52 km |
-| A Coruña → Vigo | 163.02 km |
+| Jena → Erfurt | 49.86 km |
+| A Coruña → Vigo | 164.59 km |
 
 ## Maximum Temperature on December 15, 2024
 
@@ -25,5 +25,5 @@
 
 A Coruña (Galicia's second city) is **both** farther from its regional leader and warmer than Jena (Thuringia's second city) on December 15, 2024.
 
-- **Distance gap**: 111.50 km (A Coruña is 163.02 km from Vigo vs. Jena at 51.52 km from Erfurt)
+- **Distance gap**: 114.73 km (A Coruña is 164.59 km from Vigo vs. Jena at 49.86 km from Erfurt)
 - **Temperature gap**: 8.4 °C (A Coruña reached 13.0 °C vs. Jena at 4.6 °C)
